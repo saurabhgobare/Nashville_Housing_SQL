@@ -78,6 +78,13 @@ o	Enables interactive filtering of visuals for a specific year.
 •	Power BI Desktop – Dashboard creation and visualization.
 
 # Dashboard Preview
+## 📷 Dashboard Preview
+
+### Static Screenshot
+![Nashville Housing Market Analysis Dashboard](https://raw.githubusercontent.com/saurabhgobare/Nashville_Housing_SQL/main/Nashville%20Housing%20Market%20Analysis%20Dashboard.png)
+
+### Live Interactive Dashboard
+[![View Live Dashboard](https://img.shields.io/badge/View%20Live%20Dashboard-Click%20Here-blue?style=for-the-badge&logo=powerbi)]([PASTE_YOUR_POWER_BI_PUBLIC_URL_HERE])
 
 
 # How to Use
